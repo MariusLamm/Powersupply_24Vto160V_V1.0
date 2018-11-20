@@ -1,0 +1,21 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+Coutx	MuRata	GRM55DR72E105KW01L	2	0.29	Cap	1uF	ESR	7.086mOhm			2220_200
+Cbp	Taiyo Yuden	EMK107B7105KA-T	1	0.01	Cap	1uF	ESR	0Ohm			603
+Ccomp	MuRata	GRM155R61A824KE15D	1	0.03	Cap	820nF	ESR	0Ohm			402
+Ccomp2	Yageo America	CC0805KRX7R8BB104	1	0.01	Cap	100nF	ESR	0Ohm			805
+Ciflt	Yageo America	CC0805JRNPO9BN221	1	0.01	Cap	220pF	ESR	0Ohm			805
+Cin	TDK	C1608X5R1H334K080AB	1	0.03	Cap	330nF	ESR	0.017Ohm			603
+Cout	Panasonic	EEV-EB2E330SM	1	1.31	Cap	33uF	ESR	0.4Ohm			EB_K16
+Crc	Samsung Electro-Mechanics	GRM0335C1E910JD01	1	0.01	Cap	91pF	ESR	0Ohm			805
+Css	TDK	C1608X7R1A155K080AC	1	0.05	Cap	1.5uF	ESR	4.327mOhm			603
+D1	Bourns	CD214C-F3600	1	0.18	VFatIo	1.12V	Io	3A	VRRM	600V	SMC
+L1	Coilcraft	MSS1210-125KEB	1	0.81	L	1.2mH	DCR	1.07Ohm	IDC	0.84A	MSS1210
+M1	STMicroelectronics	STD16N65M5	1	2.23	VdsMax	650V	IdsMax	12A	Rdson	0.312Ohm	DPAK
+Rcomp	Vishay-Dale	CRCW04028K06FKED	1	0.01	Resistance	8.06kOhm	Tolerance	1%	Power	0.063W	402
+Rg	Vishay-Dale	CRCW04023R40FKED	1	0.01	Resistance	3.4Ohm	Tolerance	1%	Power	0.063W	402
+Riflt	Vishay-Dale	CRCW04021K00FKED	1	0.01	Resistance	1000Ohm	Tolerance	1%	Power	0.063W	402
+Rrc	Vishay-Dale	CRCW0402412KFKED	1	0.01	Resistance	412kOhm	Tolerance	1%	Power	0.063W	402
+Rsense	Panasonic	ERJ-3RSFR15V	1	0.03	Resistance	0.15Ohm	Tolerance	1%	Power	0.1W	603
+U1	Texas Instruments	TPS40210QDGQRQ1	1	0.89							S-PDSO-G10
+Rfb1	Vishay-Dale	CRCW0402215RFKED	1	0.01	Resistance	215Ohm	Tolerance	1%	Power	0.063W	402
+Rfb2	CUSTOM	CUSTOM	1	0	Resistance	50kOhm	Tolerance	0%	Power	0W	CUSTOM

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Power_24Vto160V.GBR   18.08.2017  16:00:15
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L01 top                                 
+.GBL                L02 bottom                              
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                2 / Board outline text                  
+.GM3                3 / UL label top                        
+.GM4                4 / UL label bottom                     
+.GM5                5 / Fiducials top                       
+.GM6                6 / Fiducials bottom                    
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

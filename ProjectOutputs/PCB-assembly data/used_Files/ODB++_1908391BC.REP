@@ -1,0 +1,116 @@
+*************************************************************
+FileName = Power_24Vto160V.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\matrix\matrix
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\profile
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\l01_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\l01_top\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\l02_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\l02_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\1___board_outline\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\1___board_outline\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\2___board_outline_text\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\2___board_outline_text\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\3___ul_label_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\3___ul_label_top\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\4___ul_label_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\4___ul_label_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\5___fiducials_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\5___fiducials_top\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\6___fiducials_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\6___fiducials_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\7__testpoint_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\7__testpoint_top\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\8___testpoint_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\8___testpoint_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\9___viamask_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\9___viamask_top\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_12\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_12\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\14___assembly_drawing_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\14___assembly_drawing_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\16___drawing_header_bottom\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\16___drawing_header_bottom\attrlist
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\MaLamm\Desktop\NixieClock\PCB_NixieClock\Power_24Vto160V\ProjectOutputs\PCB-assembly data\used_Files\odb\steps\pcb\eda\data
+
