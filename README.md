@@ -1,6 +1,6 @@
 # Powersupply 24V to 160V
 nixie clock power supply 24v to 160v
-![img](https://github.com/MariusLamm/IKEA_LED_1.0_STM32/blob/master/IKEA_LED_PCB.PNG)
+![img](https://github.com/MariusLamm/Powersupply_24Vto160V_V1.0/blob/master/Powersupply_24Vto160V.PNG)
 
 ### Built With
 - ALTIUM 17
