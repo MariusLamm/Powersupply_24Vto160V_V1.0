@@ -1,11 +1,11 @@
 # nixie_clock_powersupply_V1.0
-nixie clock power supply (130V)
+nixie clock power supply 24v to 160v
 
 ### Built With
 - ALTIUM 17
 
-### Versioning
-V1.00 - work in progress
+### Versioning work in progress
+V1.00 
 
 ### Authors
 Marius Lamm
