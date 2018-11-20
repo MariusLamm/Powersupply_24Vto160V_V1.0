@@ -1,4 +1,4 @@
-# nixie_clock_powersupply_V1.0
+# Powersupply 24V to 160V
 nixie clock power supply 24v to 160v
 
 ### Built With
